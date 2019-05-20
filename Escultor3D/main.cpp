@@ -37,7 +37,7 @@ int main()
     cin >> opt;
     if(opt == 1){
 
-        fin.open("teste.txt");
+        fin.open("TESTE.txt");
           if(!fin.is_open()){
             exit(0);
           }
